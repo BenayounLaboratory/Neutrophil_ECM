@@ -1,0 +1,17 @@
+Mice	Sex	Age_months
+Female_4m_F1a	2	4
+Female_4m_F1b	2	4
+Female_4m_F2a	2	4
+Female_4m_F2b	2	4
+Female_20m_F3a	2	20
+Female_20m_F3b	2	20
+Female_20m_F4a	2	20
+Female_20m_F4b	2	20
+Male_4m_M1a	1	4
+Male_4m_M1b	1	4
+Male_4m_M2a	1	4
+Male_4m_M2b	1	4
+Male_20m_M3a	1	20
+Male_20m_M3b	1	20
+Male_20m_M4a	1	20
+Male_20m_M4b	1	20
